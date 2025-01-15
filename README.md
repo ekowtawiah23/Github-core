@@ -10,7 +10,7 @@ Follow the steps below to complete the assignment. By the end of the exercise, y
 1. Log in to your GitHub account.
 2. Navigate to the GitHub organization provided by your instructor and locate the repository named `github-core-functions-template`.
 3. Fork the repository to your own GitHub account by clicking the **Fork** button in the top-right corner.
-4. Clone the forked repository to your local machine using the command:
+4. Clone the forked repository to your local machine using the command: 
    ```bash
    git clone <your-forked-repository-url>
    ```
